@@ -1,0 +1,144 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: #E1Ada4;
+}
+
+header {
+    padding: 20px;
+    margin: 20px;
+}
+
+header img {
+    width: 100%
+}
+
+#spring {
+    background-color: #F7AC89;
+}
+
+#spring section {
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+#summer {
+    background-color: #888595
+}
+
+#summer section {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+#summer header {
+    padding: 0;
+}
+
+#winter {
+    background-color: #FCF6DB
+}
+
+#winter section {
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+#fall {
+    background-color: #FAF397;
+}
+
+#fall section {
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+#wrap {
+
+    margin: auto;
+    width: 70%;
+    background-color: white;
+}
+
+
+
+nav {
+    text-align: center;
+    padding: 30PX;
+    background-color: #FAEACB;
+
+}
+
+nav a {
+    color: black;
+    font-family: fantasy;
+    padding: 30px 30px;
+    text-decoration: none;
+}
+
+nav li {
+
+    display: inline;
+}
+
+nav a:hover {
+
+    color: #D4E4D9;
+    background-color: #ABC91A;
+    border-radius: 15px
+}
+
+nav ul {
+
+    padding: 10;
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    overflow: auto;
+    font-family: cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: #FAEACB;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+    font-family: inherit;
+}
+
+.button {
+
+    background-color: #647C14;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px 0px;
+    font-size: 20px;
+    font-family: fantasy;
+    border-radius: 10px;
+}
+
+a.button:hover {
+
+    background-color: #5C7884;
+}
+
+.h1 {
+    font-family: cursive
+}
